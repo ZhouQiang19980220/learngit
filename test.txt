@@ -2,3 +2,5 @@ This is a text file.
 修改第1次
 Creating a new branch is quick.
 master分支上修改，在分支dev1中修改
+
+在master中修改
