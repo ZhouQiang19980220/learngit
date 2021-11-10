@@ -3,4 +3,4 @@ This is a text file.
 Creating a new branch is quick.
 master分支上修改，在分支dev1中修改
 
-在master中修改
+在dev分支中修改
